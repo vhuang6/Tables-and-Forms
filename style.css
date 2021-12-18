@@ -1,0 +1,12 @@
+table, th,td{
+  border:2px solid green;
+  border-collaspe:seperate;
+  empty-cells: hide;
+  
+  
+  }
+
+table{
+  margin:auto;
+  text-align:center;
+}
